@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tugskusunoki
+- 👋 Hi, I’m Tugsuu :D
 - 👀 I’m interested in 🤑
 - 🌱 I’m currently learning web development, vue/php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... with your fokin hand m8
+- 💞️ I’m looking to collaborate on new business ideas
+- 📫 contact me at tugs@kusunoki.ltd
 
 <!---
 tugskusunoki/tugskusunoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
